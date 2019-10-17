@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpusApp</string>
+    <string name="loading_text">Loading…</string>
+    <string name="internet_error">Check you internet connection and try again</string>
+    <string name="generic_error">Oops! something went wrong!!</string>
+    <string name="album">Album ID: %d</string>
+    <string name="photo">Photo ID: %d</string>
+</resources>
